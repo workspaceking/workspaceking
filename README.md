@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
 [![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com)
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
 [![Threads](https://img.shields.io/badge/Threads-%40thatgroot-blue?logo=Threads&logoColor=blue&labelColor=black)](https://www.threads.com/@thatgroot)
 [![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~016efa48eb5dc51845?suggest-vem-skills)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Rashid%20Iqbal-blue?logo=Fiverr&logoColor=blue&labelColor=black)](https://www.fiverr.com/nawoapp)
